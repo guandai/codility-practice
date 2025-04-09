@@ -9,7 +9,7 @@
     "create-react-class": "^15.6.3",
     "highlight.js": "^10.1.2",
     "jsx-to-string": "^1.4.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-addons-shallow-compare": "^15.6.2",
